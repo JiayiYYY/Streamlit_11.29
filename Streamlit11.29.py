@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Load dataset for main analysis
-file_path = '/Users/yanjiayi/Desktop/dogs_dataset.csv'
+file_path = 'dogs_dataset.csv'
 dogs_data = pd.read_csv(file_path)
 
 # Custom CSS for gradual header effect
@@ -36,7 +36,7 @@ page = st.sidebar.radio(
 if page == "Home":
     st.markdown('<h1 class="fade-in-text">Welcome to Cute Angels 🐶🐾</h1>', unsafe_allow_html=True)
     st.image(
-        "/Users/yanjiayi/Desktop/Pics/WechatIMG27.png",
+        "WechatIMG27.png",
         caption="Exploring the cutest companions!",
         width=500
     )
@@ -60,7 +60,7 @@ elif page == "Breed Analysis":
     st.header("Now Let's Explore These Cuties Together 🐕")
 
     # Load the breed details dynamically
-    breed_file_path = '/Users/yanjiayi/Desktop/image.csv'
+    breed_file_path = 'image.csv'
     breed_data = pd.read_csv(breed_file_path, header=0)
 
     # Breed Selection
