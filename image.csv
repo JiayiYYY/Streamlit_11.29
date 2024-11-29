@@ -1,10 +1,10 @@
 Breed,Country of Origin,Fur Color,Height (in),Color of Eyes,Longevity (yrs),Character Traits,Common Health Problems,Image
-Labrador Retriever,Canada,"Yellow, Black, Chocolate",21-24,Brown,12-Oct,"Loyal, friendly, intelligent, energetic, good-natured","Hip dysplasia, obesity, ear infections",/Users/yanjiayi/Desktop/lab.jpeg
-German Shepherd,Germany,"Black, Tan",22-26,Brown,10-Jul,"Loyal, intelligent, protective, confident, trainable","Hip dysplasia, elbow dysplasia, pancreatitis",
+Labrador Retriever,Canada,"Yellow, Black, Chocolate",21-24,Brown,12-Oct,"Loyal, friendly, intelligent, energetic, good-natured","Hip dysplasia, obesity, ear infections",lab.jpeg, 
+German Shepherd,Germany,"Black, Tan",22-26,Brown,10-Jul,"Loyal, intelligent, protective, confident, trainable","Hip dysplasia, elbow dysplasia, pancreatitis", gs.jpeg, 
 Bulldog,England,"White, Red",16-Dec,Brown,10-Aug,"Loyal, calm, gentle, brave","Skin allergies, respiratory issues, obesity",
 Poodle,France,"White, Black, Brown, Apricot",15-Oct,"Brown, Blue",15-Dec,"Intelligent, active, affectionate, hypoallergenic","Hip dysplasia, epilepsy, bladder stones",
-Beagle,England,"White, Tan, Red, Lemon",13-15,Brown,15-Dec,"Curious, friendly, energetic, good-natured","Ear infections, hip dysplasia, epilepsy",
-Chihuahua,Mexico,"Black, Brown, Tan, White",9-Jun,"Brown, Blue",20-Dec,"Loyal, energetic, confident, sensitive","Dental problems, eye issues, respiratory issues",
+Beagle,England,"White, Tan, Red, Lemon",13-15,Brown,15-Dec,"Curious, friendly, energetic, good-natured","Ear infections, hip dysplasia, epilepsy", beagle.jpg, 
+Chihuahua,Mexico,"Black, Brown, Tan, White",9-Jun,"Brown, Blue",20-Dec,"Loyal, energetic, confident, sensitive","Dental problems, eye issues, respiratory issues", jiw.jpg, 
 Boxer,Germany,"Fawn, Brindle",21-25,Brown,12-Oct,"Loyal, energetic, intelligent, playful, protective","Hip dysplasia, cancer, heart conditions",
 Golden Retriever,Scotland,Golden,21-24,Brown,12-Oct,"Intelligent, friendly, kind, loyal, good-natured","Hip dysplasia, cancer, skin allergies",
 Pug,China,"Fawn, Black",14-Oct,Brown,15-Dec,"Loyal, playful, affectionate, social, charming","Eye problems, respiratory issues, obesity",
