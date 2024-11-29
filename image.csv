@@ -1,4 +1,4 @@
-Breed,Country of Origin,Fur Color,Height (in),Color of Eyes,Longevity (yrs),Character Traits,Common Health Problems,Image
+Breed,Country of Origin,Fur Color,Height (in),Color of Eyes,Longevity (yrs),Character Traits,Common Health Problems,Image, 
 Labrador Retriever,Canada,"Yellow, Black, Chocolate",21-24,Brown,12-Oct,"Loyal, friendly, intelligent, energetic, good-natured","Hip dysplasia, obesity, ear infections",lab.jpeg, 
 German Shepherd,Germany,"Black, Tan",22-26,Brown,10-Jul,"Loyal, intelligent, protective, confident, trainable","Hip dysplasia, elbow dysplasia, pancreatitis", gs.jpeg, 
 Bulldog,England,"White, Red",16-Dec,Brown,10-Aug,"Loyal, calm, gentle, brave","Skin allergies, respiratory issues, obesity",
