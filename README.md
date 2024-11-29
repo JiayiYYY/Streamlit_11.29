@@ -20,7 +20,3 @@ To run this app locally, ensure you have the following:
 - Streamlit
 - Pandas
 - Plotly
-
-Install dependencies using:
-```bash
-pip install -r requirements.txt
